@@ -15,3 +15,5 @@ Example:
 
 ![image](https://github.com/kingrex0830/svg-logo-generator/assets/120323086/f0ce717e-8846-4f3b-9ced-57aa4d530a2a)
 ![image](https://github.com/kingrex0830/svg-logo-generator/assets/120323086/6c34136b-3588-4ab1-af6b-68c93dbd236f)
+
+https://drive.google.com/file/d/1poZKMLJrJpAy9ljYrfd4z9mvhwZIegfF/view?usp=share_link
